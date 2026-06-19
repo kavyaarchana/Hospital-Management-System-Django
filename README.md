@@ -31,7 +31,7 @@ Manage patient records including registration, updates, search, and deletion.
 
 ### Doctor Management
 
-Manage doctor details, specializations, and records.
+Manage doctor details and specializations, including registration, updates, search, and deletion.
 
 ### Appointment Management
 
