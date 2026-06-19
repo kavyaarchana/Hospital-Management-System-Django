@@ -41,22 +41,21 @@ Schedule and manage appointments with validation checks.
 ## Project Screenshots
 
 ### Home Dashboard
-![Home Dashboard](hosmag_project/screenshots/1_home_dashboard.png)
+![Home Dashboard](screenshots/1_home_dashboard.png)
 
 ### Patient Management
-![Patient Management](hosmag_project/screenshots/2_patient_list.png)
+![Patient Management](screenshots/2_patient_list.png)
 
 ### Doctor Management
-![Doctor Management](hosmag_project/screenshots/3_doctor_list.png)
+![Doctor Management](screenshots/3_doctor_list.png)
 
 ### Appointment Management
-![Appointment Management](hosmag_project/screenshots/4_appointment_list.png)
+![Appointment Management](screenshots/4_appointment_list.png)
 
 ### Appointment Validation
-![Appointment Validation](hosmag_project/screenshots/5_validation_error.png)
+![Appointment Validation](screenshots/5_validation_error.png)
 
 
 ## Author
 
 Kavya Archana
->>>>>>> c6004b9e753cf6869b5274403d7c8591ec6d7c8e
