@@ -53,7 +53,7 @@ Schedule and manage appointments with validation checks.
 ![Appointment Management](screenshots/4_appointment_list.png)
 
 ### Appointment Validation
-![Appointment Validation](screenshots/5_validation_error.png)
+![Appointment Validation](screenshots/5_validation_error copy.png)
 
 
 ## Author
